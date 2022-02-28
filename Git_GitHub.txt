@@ -1,4 +1,4 @@
-############ How to use git ##########
+######## How to use git #######
 1) Make Repository in GitHub 
 2) Go to https://git-scm.com/ and download git as per your platform 
 3) Install GIT 
